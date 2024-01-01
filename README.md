@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 
 <br>
 
+<!--
 [![Vulbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulbyte)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <br>
 
