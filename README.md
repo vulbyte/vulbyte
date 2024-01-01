@@ -1,4 +1,4 @@
-# Hello
+# hello, i'm vulbyte
 
 - Stuff i'm into / play with
 <p align="center">
@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<br>
+<br
 
 - 🔭 I’m currently working on ...
   a vTuber application
