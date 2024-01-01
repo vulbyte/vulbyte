@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<br
+<br>
 
 - 🔭 I’m currently working on ...
   a vTuber application
