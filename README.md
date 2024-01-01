@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 - Stuff i'm into
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,bash,blender,cs,cpp,cloudflate,css,discord,docker,electron,git,github,gitlab,html,ai,js,linux,neovim,nextjs,ps,pr,py,react,rust,supabase,svelte,svg.tailwind,tauri,threejs,ts,unity,vim,vite,xd," />
+    <img src="https://skillicons.dev/icons?i=ableton,bash,blender,cs,cpp,cloudflare,css,discord,docker,electron,git,github,gitlab,html,ai,js,linux,neovim,nextjs,ps,pr,py,react,rust,supabase,svelte,svg,tailwind,tauri,threejs,ts,unity,vim,vite,xd," />
   </a>
 </p>
