@@ -1,6 +1,6 @@
-# hello, i'm vulbyte
+# hello, i'm vulbyte <br>
 
-- Stuff i'm into / play with
+- Stuff i'm into / play with <br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ableton,bash,blender,cs,cpp,cloudflare,css,discord,docker,electron,git,github,gitlab,html,ai,js,linux,neovim,nextjs,ps,pr,py,react,rust,supabase,svelte,svg,tailwind,tauri,threejs,ts,unity,vim,vite,xd," />
@@ -9,44 +9,44 @@
 
 <br>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... <br>
   a vTuber application
 
 <br>
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... <br>
   rust, <br>
   c++, <br>
   js, <br>
 
 <br>
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ... <br>
   anything! i need to work with more teams and understand where i fall short <br>
 
 <br>
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... <br>
   better ways to write things i already have, as i'm sure there are way better ways! <br>
 
 <br>
 
-- 💬 Ask me about ...
+- 💬 Ask me about ... <br>
   anything and i'll chat your ear off
 
 <br>
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... <br>
   vulbyte.com/links
 
 <br>
 
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... <br>
   any/all work, still figuring it out
 
 <br>
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... <br>
   i am learning a different language<br>
   i have a degree in graphic design
 
