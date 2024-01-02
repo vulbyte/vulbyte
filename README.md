@@ -3,7 +3,7 @@
 - Stuff i'm into / play with <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,bash,blender,c.cs,cpp,cloudflare,css,discord,electron,git,github,gitlab,html,ai,js,linux,neovim,netlify,nextjs,ps,pr,py,react,rust,supabase,svelte,svg,tailwind,tauri,threejs,ts,unity,unreal,vim,vite,xd," />
+    <img src="https://skillicons.dev/icons?i=ableton,bash,blender,clang.cs,cpp,cloudflare,css,discord,electron,git,github,gitlab,html,ai,js,linux,neovim,netlify,nextjs,ps,pr,py,react,rust,supabase,svelte,svg,tailwind,tauri,threejs,ts,unity,unreal,vim,vite,xd," />
   </a>
 </p>
 
