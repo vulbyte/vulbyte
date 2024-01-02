@@ -10,7 +10,11 @@
 <br>
 
 - 🔭 I’m currently working on ... <br>
-  a vTuber application
+  <br>
+  - a vTuber application
+  - my own nvim distro (tldr, make my config portable af.)
+  - my website
+  - learning rust lang
 
 <br>
 
