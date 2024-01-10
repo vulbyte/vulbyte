@@ -15,6 +15,7 @@
   - my own nvim distro (tldr, make my config portable af.)
   - my website
   - learning rust lang
+  - making a keyboard using at most off the shelf microprocessors (pico2040 esc)
 
 <br>
 
