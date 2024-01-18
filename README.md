@@ -1,5 +1,12 @@
 # hello, i'm vulbyte <br>
 
+- Stuff i'm pretty good at
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ableton,blender,cloudflare,css,discord,html,ai,js,linux,neovim,ps,pr,react,rust,unreal,vim,xd," />
+  </a>
+</p>
+
 - Stuff i'm into / play with <br>
 <p align="center">
   <a href="https://skillicons.dev">
