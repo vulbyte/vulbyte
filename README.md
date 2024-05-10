@@ -23,6 +23,9 @@
   - my website
   - learning rust lang
   - making a keyboard using at most off the shelf microprocessors (pico2040 esc)
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br>
 
