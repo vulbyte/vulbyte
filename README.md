@@ -3,7 +3,7 @@
 - Stuff i'm pretty good at
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,blender,cloudflare,css,discord,html,ai,js,linux,neovim,ps,pr,react,rust,unreal,vim,xd," />
+    <img src="https://skillicons.dev/icons?i=ableton,blender,cloudflare,css,discord,html,ai,js,linux,neovim,ps,pr,unreal,vim,xd," />
   </a>
 </p>
 
