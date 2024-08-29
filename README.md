@@ -1,5 +1,7 @@
 # hello, i'm vulbyte <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 - Stuff i'm pretty good at
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,8 +17,6 @@
 </p>
 
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - 🔭 I’m currently working on ... <br>
   <br>
