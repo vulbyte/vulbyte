@@ -18,11 +18,10 @@
 
 - 🔭 I’m currently working on ... <br>
   <br>
-  - a vTuber application
-  - my own nvim distro (tldr, make my config portable af.)
-  - my website
+  - my website from scratch
   - learning rust lang
   - making a keyboard using at most off the shelf microprocessors (pico2040 esc)
+  - game development with godot
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
@@ -32,6 +31,7 @@
 - 🌱 I’m currently learning ... <br>
   rust, <br>
   c++, <br>
+  c#, <br>
   js, <br>
 
 <br>
