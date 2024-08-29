@@ -16,6 +16,8 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 - 🔭 I’m currently working on ... <br>
   <br>
   - my website from scratch
@@ -23,8 +25,6 @@
   - making a keyboard using at most off the shelf microprocessors (pico2040 esc)
   - game development with godot
 <br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <br>
 
