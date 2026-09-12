@@ -5,7 +5,7 @@
 - Stuff i'm pretty good at
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,affinity,apple,arch,blender,cloudflare,css,discord,html,ai,js,linux,md,neovim,ps,pr,ubuntu,unreal,vim,windows,xd," />
+    <img src="https://skillicons.dev/icons?i=ableton,apple,arch,blender,cloudflare,css,discord,html,ai,js,linux,md,neovim,ps,pr,ubuntu,unreal,vim,windows,xd," />
   </a>
 </p>
 
