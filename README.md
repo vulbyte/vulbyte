@@ -1,11 +1,11 @@
 # hello, i'm vulbyte <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - Stuff i'm pretty good at
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ableton,apple,arch,blender,cloudflare,css,discord,html,ai,js,linux,md,neovim,ps,pr,ubuntu,unreal,vim,windows,xd," />
+    <img src="https://skillicons.dev/icons?i=ableton,affinity,apple,arch,blender,cloudflare,css,discord,html,ai,js,linux,md,neovim,ps,pr,ubuntu,unreal,vim,windows,xd," />
   </a>
 </p>
 
@@ -18,54 +18,14 @@
 
 <br>
 
-- 🔭 I’m currently working on ... <br>
+- 🔭 project i'm proud of: <br>
   <br>
-  - my website from scratch
-  - learning rust lang
-  - making a keyboard using at most off the shelf microprocessors (pico2040 esc)
-  - game development with godot
+  - [Cockatiel](https://github.com/vulbyte/cockatiel)
+  - [my website](https://github.com/vulbyte/cockatiel)
 <br>
 
-<br>
+  [vulbyte.com/links](vulbyte.com/links)
 
-- 🌱 I’m currently learning ... <br>
-  rust, <br>
-  c++, <br>
-  c#, <br>
-  js, <br>
-
-<br>
-
-- 👯 I’m looking to collaborate on ... <br>
-  anything! i need to work with more teams and understand where i fall short <br>
-
-<br>
-
-- 🤔 I’m looking for help with ... <br>
-  better ways to write things i already have, as i'm sure there are way better ways! <br>
-
-<br>
-
-- 💬 Ask me about ... <br>
-  anything and i'll chat your ear off
-
-<br>
-
-- 📫 How to reach me: ... <br>
-  vulbyte.com/links
-
-<br>
-
-- 😄 Pronouns: ... <br>
-  any/all work, still figuring it out
-
-<br>
-
-- ⚡ Fun fact: ... <br>
-  i am learning a different language<br>
-  i have a degree in graphic design
-
-<br>
 
 <!--
 [![Vulbyte's GitHub stats](https://github-readme-stats.vercel.app/api?username=vulbyte)](https://github.com/anuraghazra/github-readme-stats)
