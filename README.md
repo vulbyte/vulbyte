@@ -1,6 +1,6 @@
 # hello, i'm vulbyte <br>
 
-[https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact](https://github-stats-extended.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 - Stuff i'm pretty good at
 <p align="center">
